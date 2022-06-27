@@ -1,0 +1,19 @@
+{
+  "name": "fill-bucket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohamedshahid/fill-bucket.git"
+  },
+  "author": "mohamed shahid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohamedshahid/fill-bucket/issues"
+  },
+  "homepage": "https://github.com/mohamedshahid/fill-bucket#readme"
+}
