@@ -17,6 +17,12 @@ Go to the project directory
   cd fill-bucket
 ```
 
+Install dependencies
+
+```bash
+  npm install
+```
+
 Start the server
 
 ```bash
